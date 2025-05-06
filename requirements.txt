@@ -1,0 +1,9 @@
+pandas
+numpy
+schedule
+ib_insync
+gspread
+oauth2client
+matplotlib
+ta
+psutil

@@ -1,0 +1,1044 @@
+2025-04-21 17:19:14,786 - INFO - Connecting to 127.0.0.1:7497 with clientId 1...
+2025-04-21 17:19:14,790 - INFO - Connected
+2025-04-21 17:19:14,972 - INFO - Logged on to server version 176
+2025-04-21 17:19:15,012 - INFO - API connection ready
+2025-04-21 17:19:15,017 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm.nj
+2025-04-21 17:19:15,017 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfuture
+2025-04-21 17:19:15,018 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:cashfarm
+2025-04-21 17:19:15,018 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm
+2025-04-21 17:19:15,019 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:cashhmds
+2025-04-21 17:19:15,019 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:ushmds
+2025-04-21 17:19:15,020 - INFO - Warning 2158, reqId -1: Sec-def data farm connection is OK:secdefil
+2025-04-21 17:19:15,117 - INFO - position: Position(account='DUK650881', contract=Forex('USDCHF', conId=12087820, localSymbol='USD.CHF', tradingClass='USD.CHF'), position=353614.0, avgCost=0.8093061228375824)
+2025-04-21 17:19:15,118 - INFO - position: Position(account='DUK650881', contract=Forex('USDCAD', conId=15016062, localSymbol='USD.CAD', tradingClass='USD.CAD'), position=800000.0, avgCost=1.380815126225)
+2025-04-21 17:19:15,122 - INFO - position: Position(account='DUK650881', contract=Forex('NZDUSD', conId=39453441, localSymbol='NZD.USD', tradingClass='NZD.USD'), position=627672.0, avgCost=0.6002620149409008)
+2025-04-21 17:19:15,123 - INFO - position: Position(account='DUK650881', contract=Forex('USDJPY', conId=15016059, localSymbol='USD.JPY', tradingClass='USD.JPY'), position=2768.0, avgCost=141.14402357018082)
+2025-04-21 17:19:15,124 - INFO - position: Position(account='DUK650881', contract=Forex('EURJPY', conId=14321016, localSymbol='EUR.JPY', tradingClass='EUR.JPY'), position=2776.0, avgCost=162.36823181106558)
+2025-04-21 17:19:15,125 - INFO - position: Position(account='DUK650881', contract=Forex('AUDUSD', conId=14433401, localSymbol='AUD.USD', tradingClass='AUD.USD'), position=-192206.0, avgCost=0.6413592942561378)
+2025-04-21 17:19:15,126 - INFO - position: Position(account='DUK650881', contract=Forex('EURGBP', conId=12087807, localSymbol='EUR.GBP', tradingClass='EUR.GBP'), position=308027.0, avgCost=0.8602471160143824)
+2025-04-21 17:19:15,127 - INFO - position: Position(account='DUK650881', contract=Forex('EURUSD', conId=12087792, localSymbol='EUR.USD', tradingClass='EUR.USD'), position=301376.0, avgCost=1.1505545667877441)
+2025-04-21 17:19:15,127 - INFO - position: Position(account='DUK650881', contract=Forex('GBPJPY', conId=14321015, localSymbol='GBP.JPY', tradingClass='GBP.JPY'), position=0.0, avgCost=0.0)
+2025-04-21 17:19:15,128 - INFO - position: Position(account='DUK650881', contract=Forex('GBPUSD', conId=12087797, localSymbol='GBP.USD', tradingClass='GBP.USD'), position=408840.0, avgCost=1.3376367743501947)
+2025-04-21 17:19:15,128 - INFO - position: Position(account='DUK650881', contract=Forex('GBPAUD', conId=15016075, localSymbol='GBP.AUD', tradingClass='GBP.AUD'), position=10000.0, avgCost=2.087972961089518)
+2025-04-21 17:19:49,362 - INFO - Connecting to 127.0.0.1:7497 with clientId 1...
+2025-04-21 17:19:49,365 - INFO - Connected
+2025-04-21 17:19:49,384 - INFO - Logged on to server version 176
+2025-04-21 17:19:49,388 - INFO - API connection ready
+2025-04-21 17:19:49,391 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm.nj
+2025-04-21 17:19:49,393 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfuture
+2025-04-21 17:19:49,395 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:cashfarm
+2025-04-21 17:19:49,396 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm
+2025-04-21 17:19:49,403 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:cashhmds
+2025-04-21 17:19:49,404 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:ushmds
+2025-04-21 17:19:49,405 - INFO - Warning 2158, reqId -1: Sec-def data farm connection is OK:secdefil
+2025-04-21 17:19:49,490 - INFO - position: Position(account='DUK650881', contract=Forex('USDCHF', conId=12087820, localSymbol='USD.CHF', tradingClass='USD.CHF'), position=353614.0, avgCost=0.8093061228375824)
+2025-04-21 17:19:49,491 - INFO - position: Position(account='DUK650881', contract=Forex('USDCAD', conId=15016062, localSymbol='USD.CAD', tradingClass='USD.CAD'), position=800000.0, avgCost=1.380815126225)
+2025-04-21 17:19:49,494 - INFO - position: Position(account='DUK650881', contract=Forex('NZDUSD', conId=39453441, localSymbol='NZD.USD', tradingClass='NZD.USD'), position=627672.0, avgCost=0.6002620149409008)
+2025-04-21 17:19:49,495 - INFO - position: Position(account='DUK650881', contract=Forex('USDJPY', conId=15016059, localSymbol='USD.JPY', tradingClass='USD.JPY'), position=2768.0, avgCost=141.14402357018082)
+2025-04-21 17:19:49,496 - INFO - position: Position(account='DUK650881', contract=Forex('EURJPY', conId=14321016, localSymbol='EUR.JPY', tradingClass='EUR.JPY'), position=2776.0, avgCost=162.36823181106558)
+2025-04-21 17:19:49,497 - INFO - position: Position(account='DUK650881', contract=Forex('AUDUSD', conId=14433401, localSymbol='AUD.USD', tradingClass='AUD.USD'), position=-192206.0, avgCost=0.6413592942561378)
+2025-04-21 17:19:49,498 - INFO - position: Position(account='DUK650881', contract=Forex('EURGBP', conId=12087807, localSymbol='EUR.GBP', tradingClass='EUR.GBP'), position=308027.0, avgCost=0.8602471160143824)
+2025-04-21 17:19:49,500 - INFO - position: Position(account='DUK650881', contract=Forex('EURUSD', conId=12087792, localSymbol='EUR.USD', tradingClass='EUR.USD'), position=301376.0, avgCost=1.1505545667877441)
+2025-04-21 17:19:49,500 - INFO - position: Position(account='DUK650881', contract=Forex('GBPJPY', conId=14321015, localSymbol='GBP.JPY', tradingClass='GBP.JPY'), position=0.0, avgCost=0.0)
+2025-04-21 17:19:49,502 - INFO - position: Position(account='DUK650881', contract=Forex('GBPUSD', conId=12087797, localSymbol='GBP.USD', tradingClass='GBP.USD'), position=408840.0, avgCost=1.3376367743501947)
+2025-04-21 17:19:49,503 - INFO - position: Position(account='DUK650881', contract=Forex('GBPAUD', conId=15016075, localSymbol='GBP.AUD', tradingClass='GBP.AUD'), position=10000.0, avgCost=2.087972961089518)
+2025-04-21 17:19:50,577 - INFO - execDetails Execution(execId='000132b0.68057028.01.01', time=datetime.datetime(2025, 4, 21, 15, 13, 24, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=1000.0, price=188.635, permId=371613158, clientId=0, orderId=0, liquidation=0, cumQty=1000.0, avgPrice=188.635, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,581 - INFO - execDetails Execution(execId='000132b0.68057029.01.01', time=datetime.datetime(2025, 4, 21, 15, 15, 34, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=1000.0, price=188.61, permId=371613163, clientId=0, orderId=0, liquidation=0, cumQty=1000.0, avgPrice=188.61, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,585 - INFO - execDetails Execution(execId='000132b0.6805702a.01.01', time=datetime.datetime(2025, 4, 21, 15, 16, 48, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=10000.0, price=1.14865, permId=371613168, clientId=0, orderId=0, liquidation=0, cumQty=10000.0, avgPrice=1.14865, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,587 - INFO - execDetails Execution(execId='000132b0.6805702c.01.01', time=datetime.datetime(2025, 4, 21, 15, 18, 18, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=10000.0, price=2.08766, permId=371613173, clientId=0, orderId=0, liquidation=0, cumQty=10000.0, avgPrice=2.08766, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 17:19:50,589 - INFO - execDetails Execution(execId='000132b0.6805702d.01.01', time=datetime.datetime(2025, 4, 21, 15, 19, 9, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=100000.0, price=1.38071, permId=371613179, clientId=0, orderId=0, liquidation=0, cumQty=100000.0, avgPrice=1.38071, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,591 - INFO - execDetails Execution(execId='000132b0.6805702e.01.01', time=datetime.datetime(2025, 4, 21, 15, 19, 41, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=500000.0, price=1.38079, permId=371613183, clientId=0, orderId=0, liquidation=0, cumQty=500000.0, avgPrice=1.38079, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,593 - INFO - execDetails Execution(execId='000132b0.6805702f.01.01', time=datetime.datetime(2025, 4, 21, 15, 19, 41, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=200000.0, price=1.38082, permId=371613183, clientId=0, orderId=0, liquidation=0, cumQty=700000.0, avgPrice=1.380799, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,595 - INFO - execDetails Execution(execId='000132b0.6805707c.01.01', time=datetime.datetime(2025, 4, 21, 16, 23, 22, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=750000.0, price=0.64117, permId=371613212, clientId=0, orderId=0, liquidation=0, cumQty=750000.0, avgPrice=0.64117, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 17:19:50,604 - INFO - execDetails Execution(execId='000132b0.6805719f.01.01', time=datetime.datetime(2025, 4, 21, 20, 33, 34, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=145688.0, price=1.15057, permId=371613869, clientId=1, orderId=1643, liquidation=0, cumQty=145688.0, avgPrice=1.15057, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,605 - INFO - execDetails Execution(execId='000132b0.680571a0.01.01', time=datetime.datetime(2025, 4, 21, 20, 33, 39, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=204420.0, price=1.33761, permId=371613870, clientId=1, orderId=1647, liquidation=0, cumQty=204420.0, avgPrice=1.33761, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,606 - INFO - execDetails Execution(execId='000132b0.680571a1.01.01', time=datetime.datetime(2025, 4, 21, 20, 33, 44, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=1384.0, price=140.935, permId=371613871, clientId=1, orderId=1651, liquidation=0, cumQty=1384.0, avgPrice=140.935, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,607 - INFO - execDetails Execution(execId='000132b0.680571a2.01.01', time=datetime.datetime(2025, 4, 21, 20, 33, 48, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=306397.0, price=0.64171, permId=371613872, clientId=1, orderId=1655, liquidation=0, cumQty=306397.0, avgPrice=0.64171, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,608 - INFO - execDetails Execution(execId='000132b0.680571a3.01.01', time=datetime.datetime(2025, 4, 21, 20, 33, 52, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=1388.0, price=162.16, permId=371613873, clientId=1, orderId=1660, liquidation=0, cumQty=1388.0, avgPrice=162.16, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,608 - INFO - execDetails Execution(execId='000132b0.680571a4.01.01', time=datetime.datetime(2025, 4, 21, 20, 33, 57, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=176807.0, price=0.8093, permId=371613874, clientId=1, orderId=1664, liquidation=0, cumQty=176807.0, avgPrice=0.8093, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,609 - INFO - execDetails Execution(execId='000132b0.680571a5.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 1, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=313836.0, price=0.60025, permId=371613875, clientId=1, orderId=1668, liquidation=0, cumQty=313836.0, avgPrice=0.60025, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,609 - INFO - execDetails Execution(execId='000132b0.680571a6.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 6, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=308027.0, price=0.86023, permId=371613876, clientId=1, orderId=1672, liquidation=0, cumQty=308027.0, avgPrice=0.86023, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,610 - INFO - execDetails Execution(execId='000132b0.680571a7.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 22, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=145688.0, price=1.15061, permId=371613889, clientId=1, orderId=1678, liquidation=0, cumQty=145688.0, avgPrice=1.15061, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,611 - INFO - execDetails Execution(execId='000132b0.680571a8.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 26, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=204420.0, price=1.33761, permId=371613890, clientId=1, orderId=1682, liquidation=0, cumQty=204420.0, avgPrice=1.33761, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,612 - INFO - execDetails Execution(execId='000132b0.680571a9.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 31, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=1384.0, price=140.945, permId=371613891, clientId=1, orderId=1686, liquidation=0, cumQty=1384.0, avgPrice=140.945, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,616 - INFO - execDetails Execution(execId='000132b0.680571aa.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 35, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=306397.0, price=0.64172, permId=371613892, clientId=1, orderId=1690, liquidation=0, cumQty=306397.0, avgPrice=0.64172, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,621 - INFO - execDetails Execution(execId='000132b0.680571ab.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 40, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=1388.0, price=162.17, permId=371613893, clientId=1, orderId=1695, liquidation=0, cumQty=1388.0, avgPrice=162.17, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,624 - INFO - execDetails Execution(execId='000132b0.680571ac.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 44, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=176807.0, price=0.80928, permId=371613894, clientId=1, orderId=1699, liquidation=0, cumQty=176807.0, avgPrice=0.80928, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,633 - INFO - execDetails Execution(execId='000132b0.680571ad.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 49, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=313836.0, price=0.60025, permId=371613895, clientId=1, orderId=1703, liquidation=0, cumQty=313836.0, avgPrice=0.60025, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 17:19:50,637 - INFO - execDetails Execution(execId='000132b0.680571cd.01.01', time=datetime.datetime(2025, 4, 21, 20, 55, 18, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=28000.0, price=0.6419, permId=371613903, clientId=0, orderId=0, liquidation=0, cumQty=28000.0, avgPrice=0.6419, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 17:19:50,646 - INFO - execDetails Execution(execId='000132b0.680571ce.01.01', time=datetime.datetime(2025, 4, 21, 20, 56, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=27000.0, price=0.6419, permId=371613903, clientId=0, orderId=0, liquidation=0, cumQty=55000.0, avgPrice=0.6419, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 17:19:50,648 - INFO - commissionReport: CommissionReport(execId='000132b0.68057028.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,649 - INFO - commissionReport: CommissionReport(execId='000132b0.68057029.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,650 - INFO - commissionReport: CommissionReport(execId='000132b0.6805702a.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,657 - INFO - commissionReport: CommissionReport(execId='000132b0.6805702c.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,660 - INFO - commissionReport: CommissionReport(execId='000132b0.6805702d.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,663 - INFO - commissionReport: CommissionReport(execId='000132b0.6805702e.01.01', commission=13.8079, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,664 - INFO - commissionReport: CommissionReport(execId='000132b0.6805702f.01.01', commission=5.52328, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,668 - INFO - commissionReport: CommissionReport(execId='000132b0.6805707c.01.01', commission=13.319345, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,669 - INFO - commissionReport: CommissionReport(execId='000132b0.6805719f.01.01', commission=4.642856, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,674 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a0.01.01', commission=7.573581, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,677 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a1.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,688 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a2.01.01', commission=5.445926, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,690 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a3.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,693 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a4.01.01', commission=4.855503, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,694 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a5.01.01', commission=5.217751, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,697 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a6.01.01', commission=9.758475, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,700 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a7.01.01', commission=4.643018, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,701 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a8.01.01', commission=7.573581, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,702 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a9.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,703 - INFO - commissionReport: CommissionReport(execId='000132b0.680571aa.01.01', commission=5.446011, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,703 - INFO - commissionReport: CommissionReport(execId='000132b0.680571ab.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,708 - INFO - commissionReport: CommissionReport(execId='000132b0.680571ac.01.01', commission=4.855383, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,720 - INFO - commissionReport: CommissionReport(execId='000132b0.680571ad.01.01', commission=5.217751, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,721 - INFO - commissionReport: CommissionReport(execId='000132b0.680571cd.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,743 - INFO - commissionReport: CommissionReport(execId='000132b0.680571ce.01.01', commission=0.0, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 17:19:50,747 - INFO - Synchronization complete
+2025-04-21 17:19:50,752 - INFO - Successfully connected to IBKR
+2025-04-21 17:19:50,753 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:19:50,754 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:19:50,755 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:19:50,759 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:19:50,810 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:19:50,821 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:19:50,824 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:19:50,824 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:20:50,839 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:20:50,840 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:20:50,841 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:20:50,842 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:20:50,842 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:20:50,843 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:20:50,843 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:20:50,843 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:21:50,847 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:21:50,848 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:21:50,848 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:21:50,849 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:21:50,849 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:21:50,849 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:21:50,850 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:21:50,850 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:22:50,851 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:22:50,852 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:22:50,852 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:22:50,852 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:22:50,853 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:22:50,853 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:22:50,854 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:22:50,854 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:23:50,851 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:23:50,852 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:23:50,852 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:23:50,852 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:23:50,852 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:23:50,853 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:23:50,853 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:23:50,853 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:24:50,868 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:24:50,869 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:24:50,869 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:24:50,870 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:24:50,870 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:24:50,871 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:24:50,871 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:24:50,872 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:25:50,887 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:25:50,888 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:25:50,889 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:25:50,890 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:25:50,890 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:25:50,891 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:25:50,891 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:25:50,892 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:26:50,898 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:26:50,899 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:26:50,900 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:26:50,901 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:26:50,901 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:26:50,902 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:26:50,902 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:26:50,903 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:27:50,912 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:27:50,913 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:27:50,913 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:27:50,914 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:27:50,914 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:27:50,915 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:27:50,915 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:27:50,916 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:28:50,919 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:28:50,919 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:28:50,920 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:28:50,920 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:28:50,921 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:28:50,921 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:28:50,922 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:28:50,922 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:29:50,928 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:29:50,929 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:29:50,929 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:29:50,931 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:29:50,931 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:29:50,932 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:29:50,932 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:29:50,933 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:30:32,248 - INFO - position: Position(account='DUK650881', contract=Forex('GBPUSD', conId=12087797, localSymbol='GBP.USD', tradingClass='GBP.USD'), position=264659.0, avgCost=1.3376367743501947)
+2025-04-21 17:30:32,279 - INFO - position: Position(account='DUK650881', contract=Forex('GBPUSD', conId=12087797, localSymbol='GBP.USD', tradingClass='GBP.USD'), position=264659.0, avgCost=1.3376367743501947)
+2025-04-21 17:30:50,942 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:30:50,943 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:30:50,944 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:30:50,944 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:30:50,945 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:30:50,946 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:30:50,947 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:30:50,948 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:31:50,963 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:31:50,963 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:31:50,964 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:31:50,964 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:31:50,965 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:31:50,965 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:31:50,965 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:31:50,966 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:32:50,968 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:32:50,968 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:32:50,969 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:32:50,969 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:32:50,969 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:32:50,970 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:32:50,970 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:32:50,970 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:33:50,973 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:33:50,973 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:33:50,974 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:33:50,975 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:33:50,975 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:33:50,976 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:33:50,976 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:33:50,976 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:34:50,987 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:34:50,987 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:34:50,988 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:34:50,989 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:34:50,990 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:34:50,991 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:34:50,992 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:34:50,995 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:35:51,057 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:35:51,064 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:35:51,065 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:35:51,065 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:35:51,067 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:35:51,067 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:35:51,068 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:35:51,068 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:35:54,850 - INFO - Warning 2103, reqId -1: Market data farm connection is broken:usfuture
+2025-04-21 17:35:55,676 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfuture
+2025-04-21 17:36:27,774 - INFO - Warning 2103, reqId -1: Market data farm connection is broken:usfuture
+2025-04-21 17:36:28,625 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfuture
+2025-04-21 17:36:51,093 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:36:51,117 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:36:51,120 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:36:51,122 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:36:51,125 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:36:51,127 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:36:51,127 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:36:51,128 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:37:51,135 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:37:51,135 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:37:51,136 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:37:51,137 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:37:51,137 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:37:51,138 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:37:51,138 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:37:51,139 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:38:51,142 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:38:51,143 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:38:51,143 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:38:51,144 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:38:51,144 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:38:51,145 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:38:51,145 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:38:51,145 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:38:55,653 - INFO - Warning 2103, reqId -1: Market data farm connection is broken:usfuture
+2025-04-21 17:38:56,371 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfuture
+2025-04-21 17:39:28,628 - INFO - Warning 2103, reqId -1: Market data farm connection is broken:usfuture
+2025-04-21 17:39:29,449 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfuture
+2025-04-21 17:39:51,149 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:39:51,150 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:39:51,150 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:39:51,151 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:39:51,151 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:39:51,152 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:39:51,152 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:39:51,152 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:40:51,167 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:40:51,168 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:40:51,168 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:40:51,168 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:40:51,168 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:40:51,169 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:40:51,169 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:40:51,169 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:41:51,171 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:41:51,171 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:41:51,173 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:41:51,174 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:41:51,174 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:41:51,174 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:41:51,175 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:41:51,175 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:42:51,178 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:42:51,179 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:42:51,179 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:42:51,179 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:42:51,180 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:42:51,180 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:42:51,180 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:42:51,180 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:43:51,195 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:43:51,196 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:43:51,196 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:43:51,196 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:43:51,196 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:43:51,197 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:43:51,197 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:43:51,197 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:44:51,199 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:44:51,199 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:44:51,199 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:44:51,199 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:44:51,200 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:44:51,200 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:44:51,200 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:44:51,200 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:45:51,209 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:45:51,210 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:45:51,210 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:45:51,210 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:45:51,211 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:45:51,211 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:45:51,211 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:45:51,212 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:46:51,216 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:46:51,217 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:46:51,217 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:46:51,218 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:46:51,218 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:46:51,218 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:46:51,218 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:46:51,219 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:47:51,230 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:47:51,230 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:47:51,231 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:47:51,231 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:47:51,231 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:47:51,231 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:47:51,232 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:47:51,232 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:48:51,236 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:48:51,236 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:48:51,236 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:48:51,237 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:48:51,237 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:48:51,237 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:48:51,237 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:48:51,238 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:49:51,251 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:49:51,252 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:49:51,252 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:49:51,252 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:49:51,252 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:49:51,253 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:49:51,253 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:49:51,253 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:50:51,263 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:50:51,264 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:50:51,264 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:50:51,264 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:50:51,265 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:50:51,265 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:50:51,265 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:50:51,266 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:51:23,474 - INFO - position: Position(account='DUK650881', contract=Forex('GBPUSD', conId=12087797, localSymbol='GBP.USD', tradingClass='GBP.USD'), position=225659.0, avgCost=1.3376367743501947)
+2025-04-21 17:51:23,475 - INFO - position: Position(account='DUK650881', contract=Forex('GBPUSD', conId=12087797, localSymbol='GBP.USD', tradingClass='GBP.USD'), position=225659.0, avgCost=1.3376367743501947)
+2025-04-21 17:51:23,529 - INFO - position: Position(account='DUK650881', contract=Forex('GBPUSD', conId=12087797, localSymbol='GBP.USD', tradingClass='GBP.USD'), position=204420.0, avgCost=1.3376367743501947)
+2025-04-21 17:51:23,537 - INFO - position: Position(account='DUK650881', contract=Forex('GBPUSD', conId=12087797, localSymbol='GBP.USD', tradingClass='GBP.USD'), position=204420.0, avgCost=1.3376367743501947)
+2025-04-21 17:51:51,260 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:51:51,260 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:51:51,261 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:51:51,261 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:51:51,261 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:51:51,261 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:51:51,262 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:51:51,262 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:52:51,267 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:52:51,268 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:52:51,268 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:52:51,268 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:52:51,269 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:52:51,269 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:52:51,270 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:52:51,270 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:53:51,277 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:53:51,277 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:53:51,277 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:53:51,277 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:53:51,278 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:53:51,278 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:53:51,278 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:53:51,278 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:54:51,283 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:54:51,283 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:54:51,283 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:54:51,283 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:54:51,284 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:54:51,285 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:54:51,285 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:54:51,285 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:55:51,291 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:55:51,292 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:55:51,293 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:55:51,293 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:55:51,293 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:55:51,293 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:55:51,293 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:55:51,294 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:56:51,300 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:56:51,302 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:56:51,302 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:56:51,303 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:56:51,303 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:56:51,304 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:56:51,305 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:56:51,305 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:57:51,327 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:57:51,327 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:57:51,327 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:57:51,327 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:57:51,327 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:57:51,327 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:57:51,327 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:57:51,327 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:58:51,331 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:58:51,332 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:58:51,332 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:58:51,333 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:58:51,333 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:58:51,333 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:58:51,334 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:58:51,334 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:59:51,335 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:59:51,335 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:59:51,336 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:59:51,336 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:59:51,336 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:59:51,336 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:59:51,336 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 17:59:51,337 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:00:51,346 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:00:51,346 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:00:51,346 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:00:51,346 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:00:51,346 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:00:51,346 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:00:51,346 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:00:51,346 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:01:51,358 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:01:51,358 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:01:51,358 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:01:51,358 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:01:51,358 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:01:51,358 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:01:51,358 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:01:51,358 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:02:51,360 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:02:51,360 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:02:51,361 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:02:51,361 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:02:51,361 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:02:51,361 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:02:51,361 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:02:51,362 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:03:51,357 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:03:51,358 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:03:51,358 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:03:51,359 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:03:51,360 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:03:51,360 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:03:51,361 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:03:51,361 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:04:51,365 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:04:51,366 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:04:51,366 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:04:51,367 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:04:51,367 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:04:51,368 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:04:51,368 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:04:51,368 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:05:51,384 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:05:51,385 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:05:51,385 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:05:51,386 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:05:51,387 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:05:51,388 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:05:51,389 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:05:51,389 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:06:51,397 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:06:51,398 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:06:51,398 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:06:51,398 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:06:51,398 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:06:51,398 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:06:51,399 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:06:51,399 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:07:51,402 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:07:51,403 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:07:51,403 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:07:51,404 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:07:51,404 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:07:51,404 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:07:51,404 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:07:51,405 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:08:51,411 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:08:51,411 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:08:51,412 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:08:51,412 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:08:51,413 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:08:51,413 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:08:51,413 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:08:51,413 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:09:51,415 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:09:51,415 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:09:51,416 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:09:51,417 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:09:51,418 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:09:51,418 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:09:51,419 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:09:51,419 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:10:51,431 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:10:51,432 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:10:51,433 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:10:51,433 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:10:51,433 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:10:51,435 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:10:51,437 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:10:51,787 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:11:51,864 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:11:51,865 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:11:51,865 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:11:51,866 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:11:51,866 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:11:51,867 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:11:51,867 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:11:51,868 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:12:51,876 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:12:51,876 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:12:51,876 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:12:51,877 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:12:51,877 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:12:51,877 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:12:51,878 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:12:51,878 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:13:51,880 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:13:51,881 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:13:51,882 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:13:51,883 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:13:51,883 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:13:51,884 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:13:51,884 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:13:51,885 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:14:51,889 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:14:51,890 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:14:51,890 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:14:51,890 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:14:51,891 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:14:51,891 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:14:51,891 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:14:51,891 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:15:51,899 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:15:51,899 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:15:51,900 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:15:51,900 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:15:51,900 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:15:51,901 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:15:51,901 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:15:51,901 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:16:51,911 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:16:51,912 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:16:51,912 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:16:51,912 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:16:51,913 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:16:51,913 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:16:51,914 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:16:51,914 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:17:51,920 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:17:51,921 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:17:51,921 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:17:51,921 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:17:51,921 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:17:51,922 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:17:51,922 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:17:51,922 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:18:51,937 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:18:51,937 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:18:51,938 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:18:51,938 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:18:51,938 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:18:51,938 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:18:51,939 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:18:51,939 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:19:51,943 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:19:51,943 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:19:51,945 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:19:51,945 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:19:51,945 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:19:51,946 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:19:51,946 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:19:51,946 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:20:51,948 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:20:51,949 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:20:51,949 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:20:51,950 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:20:51,950 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:20:51,951 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:20:51,951 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:20:51,952 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:21:51,959 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:21:51,959 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:21:51,960 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:21:51,961 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:21:51,961 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:21:51,962 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:21:51,962 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:21:51,962 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:22:51,969 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:22:51,970 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:22:51,970 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:22:51,971 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:22:51,971 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:22:51,971 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:22:51,972 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:22:51,972 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:23:51,978 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:23:51,979 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:23:51,980 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:23:51,980 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:23:51,981 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:23:51,981 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:23:51,981 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:23:51,982 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:24:51,995 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:24:51,996 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:24:51,996 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:24:51,996 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:24:51,997 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:24:51,997 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:24:51,997 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:24:51,998 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:25:52,012 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:25:52,012 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:25:52,013 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:25:52,013 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:25:52,014 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:25:52,014 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:25:52,015 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:25:52,015 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:26:52,020 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:26:52,021 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:26:52,021 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:26:52,022 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:26:52,022 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:26:52,022 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:26:52,022 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:26:52,023 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:27:52,039 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:27:52,040 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:27:52,041 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:27:52,042 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:27:52,042 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:27:52,043 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:27:52,044 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:27:52,044 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:28:52,048 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:28:52,048 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:28:52,049 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:28:52,049 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:28:52,049 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:28:52,049 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:28:52,049 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:28:52,049 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:29:52,056 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:29:52,059 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:29:52,059 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:29:52,060 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:29:52,060 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:29:52,061 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:29:52,061 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:29:52,062 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:30:52,075 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:30:52,076 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:30:52,077 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:30:52,077 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:30:52,078 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:30:52,078 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:30:52,078 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:30:52,079 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:31:52,095 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:31:52,096 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:31:52,096 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:31:52,097 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:31:52,097 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:31:52,097 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:31:52,097 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:31:52,098 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:32:35,028 - INFO - position: Position(account='DUK650881', contract=Forex('NZDUSD', conId=39453441, localSymbol='NZD.USD', tradingClass='NZD.USD'), position=313836.0, avgCost=0.6002620149409008)
+2025-04-21 18:32:35,084 - INFO - position: Position(account='DUK650881', contract=Forex('NZDUSD', conId=39453441, localSymbol='NZD.USD', tradingClass='NZD.USD'), position=313836.0, avgCost=0.6002620149409008)
+2025-04-21 18:32:52,105 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:32:52,106 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:32:52,106 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:32:52,106 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:32:52,107 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:32:52,107 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:32:52,107 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:32:52,108 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:33:52,121 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:33:52,122 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:33:52,122 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:33:52,123 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:33:52,123 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:33:52,124 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:33:52,124 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:33:52,124 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:34:52,132 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:34:52,138 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:34:52,140 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:34:52,141 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:34:52,142 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:34:52,142 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:34:52,144 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:34:52,147 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:35:52,154 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:35:52,155 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:35:52,155 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:35:52,155 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:35:52,156 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:35:52,156 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:35:52,156 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:35:52,156 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:36:52,160 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:36:52,160 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:36:52,160 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:36:52,161 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:36:52,161 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:36:52,161 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:36:52,161 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:36:52,161 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:37:52,169 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:37:52,170 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:37:52,171 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:37:52,172 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:37:52,173 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:37:52,174 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:37:52,174 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:37:52,176 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:38:52,189 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:38:52,190 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:38:52,190 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:38:52,190 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:38:52,190 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:38:52,192 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:38:52,193 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:38:52,193 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:39:52,200 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:39:52,200 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:39:52,200 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:39:52,201 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:39:52,201 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:39:52,201 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:39:52,202 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:39:52,202 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:40:52,209 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:40:52,210 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:40:52,210 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:40:52,210 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:40:52,211 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:40:52,211 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:40:52,212 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:40:52,212 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:41:52,224 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:41:52,225 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:41:52,225 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:41:52,225 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:41:52,226 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:41:52,226 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:41:52,226 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:41:52,227 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:42:52,235 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:42:52,238 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:42:52,241 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:42:52,242 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:42:52,245 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:42:52,246 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:42:52,247 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:42:52,247 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:43:52,262 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:43:52,264 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:43:52,264 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:43:52,264 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:43:52,265 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:43:52,265 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:43:52,266 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:43:52,266 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:44:52,270 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:44:52,271 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:44:52,272 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:44:52,272 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:44:52,272 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:44:52,273 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:44:52,273 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:44:52,273 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:45:52,279 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:45:52,280 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:45:52,280 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:45:52,281 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:45:52,281 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:45:52,281 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:45:52,282 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:45:52,282 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:46:52,285 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:46:52,286 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:46:52,286 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:46:52,287 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:46:52,287 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:46:52,287 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:46:52,287 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:46:52,288 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:47:52,290 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:47:52,290 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:47:52,291 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:47:52,291 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:47:52,291 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:47:52,291 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:47:52,291 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:47:52,291 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:48:52,299 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:48:52,299 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:48:52,299 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:48:52,300 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:48:52,300 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:48:52,300 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:48:52,301 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:48:52,301 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:49:52,313 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:49:52,314 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:49:52,314 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:49:52,314 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:49:52,315 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:49:52,315 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:49:52,316 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:49:52,316 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:50:52,329 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:50:52,330 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:50:52,330 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:50:52,330 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:50:52,331 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:50:52,331 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:50:52,331 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:50:52,332 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:51:52,345 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:51:52,346 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:51:52,347 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:51:52,347 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:51:52,348 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:51:52,348 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:51:52,349 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:51:52,349 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:52:52,354 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:52:52,356 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:52:52,357 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:52:52,358 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:52:52,358 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:52:52,359 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:52:52,359 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:52:52,359 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:53:52,361 - ERROR - Error processing EURUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:53:52,362 - ERROR - Error processing GBPUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:53:52,362 - ERROR - Error processing USDJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:53:52,363 - ERROR - Error processing AUDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:53:52,363 - ERROR - Error processing EURJPY: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:53:52,363 - ERROR - Error processing USDCHF: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:53:52,364 - ERROR - Error processing NZDUSD: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 18:53:52,364 - ERROR - Error processing EURGBP: IB.reqHistoricalData() missing 1 required positional argument: 'useRTH'
+2025-04-21 19:06:19,326 - INFO - Connecting to 127.0.0.1:7497 with clientId 1...
+2025-04-21 19:06:19,329 - INFO - Connected
+2025-04-21 19:06:30,950 - INFO - Connecting to 127.0.0.1:7497 with clientId 1...
+2025-04-21 19:06:30,951 - INFO - Connected
+2025-04-21 19:06:30,965 - INFO - Logged on to server version 176
+2025-04-21 19:06:30,974 - INFO - API connection ready
+2025-04-21 19:06:30,975 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm.nj
+2025-04-21 19:06:30,976 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfuture
+2025-04-21 19:06:30,976 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:cashfarm
+2025-04-21 19:06:30,976 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm
+2025-04-21 19:06:30,977 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:cashhmds
+2025-04-21 19:06:30,977 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:ushmds
+2025-04-21 19:06:30,978 - INFO - Warning 2158, reqId -1: Sec-def data farm connection is OK:secdefil
+2025-04-21 19:06:31,073 - INFO - position: Position(account='DUK650881', contract=Forex('USDCHF', conId=12087820, localSymbol='USD.CHF', tradingClass='USD.CHF'), position=353614.0, avgCost=0.8093061228375824)
+2025-04-21 19:06:31,073 - INFO - position: Position(account='DUK650881', contract=Forex('USDCAD', conId=15016062, localSymbol='USD.CAD', tradingClass='USD.CAD'), position=800000.0, avgCost=1.380815126225)
+2025-04-21 19:06:31,074 - INFO - position: Position(account='DUK650881', contract=Forex('NZDUSD', conId=39453441, localSymbol='NZD.USD', tradingClass='NZD.USD'), position=313836.0, avgCost=0.6002620149409008)
+2025-04-21 19:06:31,075 - INFO - position: Position(account='DUK650881', contract=Forex('USDJPY', conId=15016059, localSymbol='USD.JPY', tradingClass='USD.JPY'), position=2768.0, avgCost=141.14402357018082)
+2025-04-21 19:06:31,075 - INFO - position: Position(account='DUK650881', contract=Forex('EURJPY', conId=14321016, localSymbol='EUR.JPY', tradingClass='EUR.JPY'), position=2776.0, avgCost=162.36823181106558)
+2025-04-21 19:06:31,075 - INFO - position: Position(account='DUK650881', contract=Forex('AUDUSD', conId=14433401, localSymbol='AUD.USD', tradingClass='AUD.USD'), position=-192206.0, avgCost=0.6413592942561378)
+2025-04-21 19:06:31,077 - INFO - position: Position(account='DUK650881', contract=Forex('EURGBP', conId=12087807, localSymbol='EUR.GBP', tradingClass='EUR.GBP'), position=308027.0, avgCost=0.8602471160143824)
+2025-04-21 19:06:31,077 - INFO - position: Position(account='DUK650881', contract=Forex('EURUSD', conId=12087792, localSymbol='EUR.USD', tradingClass='EUR.USD'), position=301376.0, avgCost=1.1505545667877441)
+2025-04-21 19:06:31,077 - INFO - position: Position(account='DUK650881', contract=Forex('GBPJPY', conId=14321015, localSymbol='GBP.JPY', tradingClass='GBP.JPY'), position=0.0, avgCost=0.0)
+2025-04-21 19:06:31,079 - INFO - position: Position(account='DUK650881', contract=Forex('GBPUSD', conId=12087797, localSymbol='GBP.USD', tradingClass='GBP.USD'), position=204420.0, avgCost=1.3376367743501947)
+2025-04-21 19:06:31,080 - INFO - position: Position(account='DUK650881', contract=Forex('GBPAUD', conId=15016075, localSymbol='GBP.AUD', tradingClass='GBP.AUD'), position=10000.0, avgCost=2.087972961089518)
+2025-04-21 19:06:31,630 - INFO - execDetails Execution(execId='000132b0.68057028.01.01', time=datetime.datetime(2025, 4, 21, 15, 13, 24, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=1000.0, price=188.635, permId=371613158, clientId=0, orderId=0, liquidation=0, cumQty=1000.0, avgPrice=188.635, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,631 - INFO - execDetails Execution(execId='000132b0.68057029.01.01', time=datetime.datetime(2025, 4, 21, 15, 15, 34, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=1000.0, price=188.61, permId=371613163, clientId=0, orderId=0, liquidation=0, cumQty=1000.0, avgPrice=188.61, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,632 - INFO - execDetails Execution(execId='000132b0.6805702a.01.01', time=datetime.datetime(2025, 4, 21, 15, 16, 48, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=10000.0, price=1.14865, permId=371613168, clientId=0, orderId=0, liquidation=0, cumQty=10000.0, avgPrice=1.14865, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,633 - INFO - execDetails Execution(execId='000132b0.6805702c.01.01', time=datetime.datetime(2025, 4, 21, 15, 18, 18, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=10000.0, price=2.08766, permId=371613173, clientId=0, orderId=0, liquidation=0, cumQty=10000.0, avgPrice=2.08766, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 19:06:31,634 - INFO - execDetails Execution(execId='000132b0.6805702d.01.01', time=datetime.datetime(2025, 4, 21, 15, 19, 9, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=100000.0, price=1.38071, permId=371613179, clientId=0, orderId=0, liquidation=0, cumQty=100000.0, avgPrice=1.38071, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,634 - INFO - execDetails Execution(execId='000132b0.6805702e.01.01', time=datetime.datetime(2025, 4, 21, 15, 19, 41, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=500000.0, price=1.38079, permId=371613183, clientId=0, orderId=0, liquidation=0, cumQty=500000.0, avgPrice=1.38079, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,635 - INFO - execDetails Execution(execId='000132b0.6805702f.01.01', time=datetime.datetime(2025, 4, 21, 15, 19, 41, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=200000.0, price=1.38082, permId=371613183, clientId=0, orderId=0, liquidation=0, cumQty=700000.0, avgPrice=1.380799, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,635 - INFO - execDetails Execution(execId='000132b0.6805707c.01.01', time=datetime.datetime(2025, 4, 21, 16, 23, 22, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=750000.0, price=0.64117, permId=371613212, clientId=0, orderId=0, liquidation=0, cumQty=750000.0, avgPrice=0.64117, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 19:06:31,636 - INFO - execDetails Execution(execId='000132b0.6805719f.01.01', time=datetime.datetime(2025, 4, 21, 20, 33, 34, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=145688.0, price=1.15057, permId=371613869, clientId=1, orderId=1643, liquidation=0, cumQty=145688.0, avgPrice=1.15057, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,636 - INFO - execDetails Execution(execId='000132b0.680571a0.01.01', time=datetime.datetime(2025, 4, 21, 20, 33, 39, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=204420.0, price=1.33761, permId=371613870, clientId=1, orderId=1647, liquidation=0, cumQty=204420.0, avgPrice=1.33761, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,637 - INFO - execDetails Execution(execId='000132b0.680571a1.01.01', time=datetime.datetime(2025, 4, 21, 20, 33, 44, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=1384.0, price=140.935, permId=371613871, clientId=1, orderId=1651, liquidation=0, cumQty=1384.0, avgPrice=140.935, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,637 - INFO - execDetails Execution(execId='000132b0.680571a2.01.01', time=datetime.datetime(2025, 4, 21, 20, 33, 48, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=306397.0, price=0.64171, permId=371613872, clientId=1, orderId=1655, liquidation=0, cumQty=306397.0, avgPrice=0.64171, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,638 - INFO - execDetails Execution(execId='000132b0.680571a3.01.01', time=datetime.datetime(2025, 4, 21, 20, 33, 52, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=1388.0, price=162.16, permId=371613873, clientId=1, orderId=1660, liquidation=0, cumQty=1388.0, avgPrice=162.16, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,638 - INFO - execDetails Execution(execId='000132b0.680571a4.01.01', time=datetime.datetime(2025, 4, 21, 20, 33, 57, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=176807.0, price=0.8093, permId=371613874, clientId=1, orderId=1664, liquidation=0, cumQty=176807.0, avgPrice=0.8093, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,638 - INFO - execDetails Execution(execId='000132b0.680571a5.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 1, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=313836.0, price=0.60025, permId=371613875, clientId=1, orderId=1668, liquidation=0, cumQty=313836.0, avgPrice=0.60025, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,640 - INFO - execDetails Execution(execId='000132b0.680571a6.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 6, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=308027.0, price=0.86023, permId=371613876, clientId=1, orderId=1672, liquidation=0, cumQty=308027.0, avgPrice=0.86023, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,640 - INFO - execDetails Execution(execId='000132b0.680571a7.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 22, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=145688.0, price=1.15061, permId=371613889, clientId=1, orderId=1678, liquidation=0, cumQty=145688.0, avgPrice=1.15061, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,641 - INFO - execDetails Execution(execId='000132b0.680571a8.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 26, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=204420.0, price=1.33761, permId=371613890, clientId=1, orderId=1682, liquidation=0, cumQty=204420.0, avgPrice=1.33761, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,641 - INFO - execDetails Execution(execId='000132b0.680571a9.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 31, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=1384.0, price=140.945, permId=371613891, clientId=1, orderId=1686, liquidation=0, cumQty=1384.0, avgPrice=140.945, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,642 - INFO - execDetails Execution(execId='000132b0.680571aa.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 35, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=306397.0, price=0.64172, permId=371613892, clientId=1, orderId=1690, liquidation=0, cumQty=306397.0, avgPrice=0.64172, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,642 - INFO - execDetails Execution(execId='000132b0.680571ab.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 40, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=1388.0, price=162.17, permId=371613893, clientId=1, orderId=1695, liquidation=0, cumQty=1388.0, avgPrice=162.17, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,642 - INFO - execDetails Execution(execId='000132b0.680571ac.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 44, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=176807.0, price=0.80928, permId=371613894, clientId=1, orderId=1699, liquidation=0, cumQty=176807.0, avgPrice=0.80928, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,643 - INFO - execDetails Execution(execId='000132b0.680571ad.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 49, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=313836.0, price=0.60025, permId=371613895, clientId=1, orderId=1703, liquidation=0, cumQty=313836.0, avgPrice=0.60025, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:06:31,644 - INFO - execDetails Execution(execId='000132b0.680571cd.01.01', time=datetime.datetime(2025, 4, 21, 20, 55, 18, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=28000.0, price=0.6419, permId=371613903, clientId=0, orderId=0, liquidation=0, cumQty=28000.0, avgPrice=0.6419, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 19:06:31,645 - INFO - execDetails Execution(execId='000132b0.680571ce.01.01', time=datetime.datetime(2025, 4, 21, 20, 56, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=27000.0, price=0.6419, permId=371613903, clientId=0, orderId=0, liquidation=0, cumQty=55000.0, avgPrice=0.6419, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 19:06:31,647 - INFO - execDetails Execution(execId='000132b0.6806b4ae.01.01', time=datetime.datetime(2025, 4, 21, 21, 30, 32, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=144181.0, price=1.338, permId=371613929, clientId=0, orderId=0, liquidation=0, cumQty=144181.0, avgPrice=1.338, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 19:06:31,648 - INFO - execDetails Execution(execId='000132b0.6806b4b3.01.01', time=datetime.datetime(2025, 4, 21, 21, 51, 23, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=39000.0, price=1.338, permId=371613929, clientId=0, orderId=0, liquidation=0, cumQty=183181.0, avgPrice=1.338, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 19:06:31,649 - INFO - execDetails Execution(execId='000132b0.6806b4b4.01.01', time=datetime.datetime(2025, 4, 21, 21, 51, 24, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=21239.0, price=1.338, permId=371613929, clientId=0, orderId=0, liquidation=0, cumQty=204420.0, avgPrice=1.338, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 19:06:31,650 - INFO - execDetails Execution(execId='000132b0.6806b4cd.01.01', time=datetime.datetime(2025, 4, 21, 22, 32, 35, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=313836.0, price=0.6001, permId=371613937, clientId=0, orderId=0, liquidation=0, cumQty=313836.0, avgPrice=0.6001, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 19:06:31,651 - INFO - commissionReport: CommissionReport(execId='000132b0.68057028.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,651 - INFO - commissionReport: CommissionReport(execId='000132b0.68057029.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,651 - INFO - commissionReport: CommissionReport(execId='000132b0.6805702a.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,652 - INFO - commissionReport: CommissionReport(execId='000132b0.6805702c.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,652 - INFO - commissionReport: CommissionReport(execId='000132b0.6805702d.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,652 - INFO - commissionReport: CommissionReport(execId='000132b0.6805702e.01.01', commission=13.8079, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,653 - INFO - commissionReport: CommissionReport(execId='000132b0.6805702f.01.01', commission=5.52328, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,653 - INFO - commissionReport: CommissionReport(execId='000132b0.6805707c.01.01', commission=13.319345, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,653 - INFO - commissionReport: CommissionReport(execId='000132b0.6805719f.01.01', commission=4.642856, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,654 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a0.01.01', commission=7.573581, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,654 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a1.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,654 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a2.01.01', commission=5.445926, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,655 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a3.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,655 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a4.01.01', commission=4.855503, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,656 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a5.01.01', commission=5.217751, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,656 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a6.01.01', commission=9.758475, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,657 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a7.01.01', commission=4.643018, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,657 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a8.01.01', commission=7.573581, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,658 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a9.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,658 - INFO - commissionReport: CommissionReport(execId='000132b0.680571aa.01.01', commission=5.446011, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,658 - INFO - commissionReport: CommissionReport(execId='000132b0.680571ab.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,660 - INFO - commissionReport: CommissionReport(execId='000132b0.680571ac.01.01', commission=4.855383, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,661 - INFO - commissionReport: CommissionReport(execId='000132b0.680571ad.01.01', commission=5.217751, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,661 - INFO - commissionReport: CommissionReport(execId='000132b0.680571cd.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,662 - INFO - commissionReport: CommissionReport(execId='000132b0.680571ce.01.01', commission=0.0, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,662 - INFO - commissionReport: CommissionReport(execId='000132b0.6806b4ae.01.01', commission=5.343337, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,663 - INFO - commissionReport: CommissionReport(execId='000132b0.6806b4b3.01.01', commission=1.445337, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,664 - INFO - commissionReport: CommissionReport(execId='000132b0.6806b4b4.01.01', commission=0.787116, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,665 - INFO - commissionReport: CommissionReport(execId='000132b0.6806b4cd.01.01', commission=5.213057, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:06:31,666 - INFO - Synchronization complete
+2025-04-21 19:06:31,666 - INFO - Successfully connected to IBKR
+2025-04-21 19:27:02,071 - INFO - position: Position(account='DUK650881', contract=Forex('NZDUSD', conId=39453441, localSymbol='NZD.USD', tradingClass='NZD.USD'), position=0.0, avgCost=0.0)
+2025-04-21 19:27:02,096 - INFO - position: Position(account='DUK650881', contract=Forex('NZDUSD', conId=39453441, localSymbol='NZD.USD', tradingClass='NZD.USD'), position=0.0, avgCost=0.0)
+2025-04-21 19:27:50,838 - INFO - Connecting to 127.0.0.1:7497 with clientId 1...
+2025-04-21 19:27:50,840 - INFO - Connected
+2025-04-21 19:27:50,866 - INFO - Logged on to server version 176
+2025-04-21 19:27:50,871 - INFO - API connection ready
+2025-04-21 19:27:50,872 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm.nj
+2025-04-21 19:27:50,873 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfuture
+2025-04-21 19:27:50,873 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:cashfarm
+2025-04-21 19:27:50,874 - INFO - Warning 2104, reqId -1: Market data farm connection is OK:usfarm
+2025-04-21 19:27:50,874 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:cashhmds
+2025-04-21 19:27:50,874 - INFO - Warning 2106, reqId -1: HMDS data farm connection is OK:ushmds
+2025-04-21 19:27:50,874 - INFO - Warning 2158, reqId -1: Sec-def data farm connection is OK:secdefil
+2025-04-21 19:27:50,976 - INFO - position: Position(account='DUK650881', contract=Forex('USDCHF', conId=12087820, localSymbol='USD.CHF', tradingClass='USD.CHF'), position=353614.0, avgCost=0.8093061228375824)
+2025-04-21 19:27:50,977 - INFO - position: Position(account='DUK650881', contract=Forex('USDCAD', conId=15016062, localSymbol='USD.CAD', tradingClass='USD.CAD'), position=800000.0, avgCost=1.380815126225)
+2025-04-21 19:27:50,978 - INFO - position: Position(account='DUK650881', contract=Forex('NZDUSD', conId=39453441, localSymbol='NZD.USD', tradingClass='NZD.USD'), position=0.0, avgCost=0.0)
+2025-04-21 19:27:50,978 - INFO - position: Position(account='DUK650881', contract=Forex('USDJPY', conId=15016059, localSymbol='USD.JPY', tradingClass='USD.JPY'), position=2768.0, avgCost=141.14402357018082)
+2025-04-21 19:27:50,979 - INFO - position: Position(account='DUK650881', contract=Forex('EURJPY', conId=14321016, localSymbol='EUR.JPY', tradingClass='EUR.JPY'), position=2776.0, avgCost=162.36823181106558)
+2025-04-21 19:27:50,980 - INFO - position: Position(account='DUK650881', contract=Forex('AUDUSD', conId=14433401, localSymbol='AUD.USD', tradingClass='AUD.USD'), position=-192206.0, avgCost=0.6413592942561378)
+2025-04-21 19:27:50,981 - INFO - position: Position(account='DUK650881', contract=Forex('EURGBP', conId=12087807, localSymbol='EUR.GBP', tradingClass='EUR.GBP'), position=308027.0, avgCost=0.8602471160143824)
+2025-04-21 19:27:50,981 - INFO - position: Position(account='DUK650881', contract=Forex('EURUSD', conId=12087792, localSymbol='EUR.USD', tradingClass='EUR.USD'), position=301376.0, avgCost=1.1505545667877441)
+2025-04-21 19:27:50,982 - INFO - position: Position(account='DUK650881', contract=Forex('GBPJPY', conId=14321015, localSymbol='GBP.JPY', tradingClass='GBP.JPY'), position=0.0, avgCost=0.0)
+2025-04-21 19:27:50,983 - INFO - position: Position(account='DUK650881', contract=Forex('GBPUSD', conId=12087797, localSymbol='GBP.USD', tradingClass='GBP.USD'), position=204420.0, avgCost=1.3376367743501947)
+2025-04-21 19:27:50,984 - INFO - position: Position(account='DUK650881', contract=Forex('GBPAUD', conId=15016075, localSymbol='GBP.AUD', tradingClass='GBP.AUD'), position=10000.0, avgCost=2.087972961089518)
+2025-04-21 19:27:51,401 - INFO - execDetails Execution(execId='000132b0.68057028.01.01', time=datetime.datetime(2025, 4, 21, 15, 13, 24, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=1000.0, price=188.635, permId=371613158, clientId=0, orderId=0, liquidation=0, cumQty=1000.0, avgPrice=188.635, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,401 - INFO - execDetails Execution(execId='000132b0.68057029.01.01', time=datetime.datetime(2025, 4, 21, 15, 15, 34, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=1000.0, price=188.61, permId=371613163, clientId=0, orderId=0, liquidation=0, cumQty=1000.0, avgPrice=188.61, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,402 - INFO - execDetails Execution(execId='000132b0.6805702a.01.01', time=datetime.datetime(2025, 4, 21, 15, 16, 48, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=10000.0, price=1.14865, permId=371613168, clientId=0, orderId=0, liquidation=0, cumQty=10000.0, avgPrice=1.14865, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,403 - INFO - execDetails Execution(execId='000132b0.6805702c.01.01', time=datetime.datetime(2025, 4, 21, 15, 18, 18, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=10000.0, price=2.08766, permId=371613173, clientId=0, orderId=0, liquidation=0, cumQty=10000.0, avgPrice=2.08766, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 19:27:51,404 - INFO - execDetails Execution(execId='000132b0.6805702d.01.01', time=datetime.datetime(2025, 4, 21, 15, 19, 9, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=100000.0, price=1.38071, permId=371613179, clientId=0, orderId=0, liquidation=0, cumQty=100000.0, avgPrice=1.38071, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,405 - INFO - execDetails Execution(execId='000132b0.6805702e.01.01', time=datetime.datetime(2025, 4, 21, 15, 19, 41, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=500000.0, price=1.38079, permId=371613183, clientId=0, orderId=0, liquidation=0, cumQty=500000.0, avgPrice=1.38079, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,406 - INFO - execDetails Execution(execId='000132b0.6805702f.01.01', time=datetime.datetime(2025, 4, 21, 15, 19, 41, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=200000.0, price=1.38082, permId=371613183, clientId=0, orderId=0, liquidation=0, cumQty=700000.0, avgPrice=1.380799, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,407 - INFO - execDetails Execution(execId='000132b0.6805707c.01.01', time=datetime.datetime(2025, 4, 21, 16, 23, 22, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=750000.0, price=0.64117, permId=371613212, clientId=0, orderId=0, liquidation=0, cumQty=750000.0, avgPrice=0.64117, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 19:27:51,407 - INFO - execDetails Execution(execId='000132b0.6805719f.01.01', time=datetime.datetime(2025, 4, 21, 20, 33, 34, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=145688.0, price=1.15057, permId=371613869, clientId=1, orderId=1643, liquidation=0, cumQty=145688.0, avgPrice=1.15057, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,407 - INFO - execDetails Execution(execId='000132b0.680571a0.01.01', time=datetime.datetime(2025, 4, 21, 20, 33, 39, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=204420.0, price=1.33761, permId=371613870, clientId=1, orderId=1647, liquidation=0, cumQty=204420.0, avgPrice=1.33761, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,408 - INFO - execDetails Execution(execId='000132b0.680571a1.01.01', time=datetime.datetime(2025, 4, 21, 20, 33, 44, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=1384.0, price=140.935, permId=371613871, clientId=1, orderId=1651, liquidation=0, cumQty=1384.0, avgPrice=140.935, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,408 - INFO - execDetails Execution(execId='000132b0.680571a2.01.01', time=datetime.datetime(2025, 4, 21, 20, 33, 48, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=306397.0, price=0.64171, permId=371613872, clientId=1, orderId=1655, liquidation=0, cumQty=306397.0, avgPrice=0.64171, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,409 - INFO - execDetails Execution(execId='000132b0.680571a3.01.01', time=datetime.datetime(2025, 4, 21, 20, 33, 52, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=1388.0, price=162.16, permId=371613873, clientId=1, orderId=1660, liquidation=0, cumQty=1388.0, avgPrice=162.16, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,409 - INFO - execDetails Execution(execId='000132b0.680571a4.01.01', time=datetime.datetime(2025, 4, 21, 20, 33, 57, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=176807.0, price=0.8093, permId=371613874, clientId=1, orderId=1664, liquidation=0, cumQty=176807.0, avgPrice=0.8093, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,410 - INFO - execDetails Execution(execId='000132b0.680571a5.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 1, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=313836.0, price=0.60025, permId=371613875, clientId=1, orderId=1668, liquidation=0, cumQty=313836.0, avgPrice=0.60025, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,410 - INFO - execDetails Execution(execId='000132b0.680571a6.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 6, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=308027.0, price=0.86023, permId=371613876, clientId=1, orderId=1672, liquidation=0, cumQty=308027.0, avgPrice=0.86023, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,411 - INFO - execDetails Execution(execId='000132b0.680571a7.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 22, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=145688.0, price=1.15061, permId=371613889, clientId=1, orderId=1678, liquidation=0, cumQty=145688.0, avgPrice=1.15061, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,411 - INFO - execDetails Execution(execId='000132b0.680571a8.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 26, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=204420.0, price=1.33761, permId=371613890, clientId=1, orderId=1682, liquidation=0, cumQty=204420.0, avgPrice=1.33761, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,411 - INFO - execDetails Execution(execId='000132b0.680571a9.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 31, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=1384.0, price=140.945, permId=371613891, clientId=1, orderId=1686, liquidation=0, cumQty=1384.0, avgPrice=140.945, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,412 - INFO - execDetails Execution(execId='000132b0.680571aa.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 35, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=306397.0, price=0.64172, permId=371613892, clientId=1, orderId=1690, liquidation=0, cumQty=306397.0, avgPrice=0.64172, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,412 - INFO - execDetails Execution(execId='000132b0.680571ab.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 40, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=1388.0, price=162.17, permId=371613893, clientId=1, orderId=1695, liquidation=0, cumQty=1388.0, avgPrice=162.17, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,412 - INFO - execDetails Execution(execId='000132b0.680571ac.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 44, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=176807.0, price=0.80928, permId=371613894, clientId=1, orderId=1699, liquidation=0, cumQty=176807.0, avgPrice=0.80928, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,413 - INFO - execDetails Execution(execId='000132b0.680571ad.01.01', time=datetime.datetime(2025, 4, 21, 20, 34, 49, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='BOT', shares=313836.0, price=0.60025, permId=371613895, clientId=1, orderId=1703, liquidation=0, cumQty=313836.0, avgPrice=0.60025, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2)
+2025-04-21 19:27:51,413 - INFO - execDetails Execution(execId='000132b0.680571cd.01.01', time=datetime.datetime(2025, 4, 21, 20, 55, 18, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=28000.0, price=0.6419, permId=371613903, clientId=0, orderId=0, liquidation=0, cumQty=28000.0, avgPrice=0.6419, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 19:27:51,414 - INFO - execDetails Execution(execId='000132b0.680571ce.01.01', time=datetime.datetime(2025, 4, 21, 20, 56, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=27000.0, price=0.6419, permId=371613903, clientId=0, orderId=0, liquidation=0, cumQty=55000.0, avgPrice=0.6419, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 19:27:51,414 - INFO - execDetails Execution(execId='000132b0.6806b4ae.01.01', time=datetime.datetime(2025, 4, 21, 21, 30, 32, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=144181.0, price=1.338, permId=371613929, clientId=0, orderId=0, liquidation=0, cumQty=144181.0, avgPrice=1.338, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 19:27:51,415 - INFO - execDetails Execution(execId='000132b0.6806b4b3.01.01', time=datetime.datetime(2025, 4, 21, 21, 51, 23, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=39000.0, price=1.338, permId=371613929, clientId=0, orderId=0, liquidation=0, cumQty=183181.0, avgPrice=1.338, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 19:27:51,415 - INFO - execDetails Execution(execId='000132b0.6806b4b4.01.01', time=datetime.datetime(2025, 4, 21, 21, 51, 24, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=21239.0, price=1.338, permId=371613929, clientId=0, orderId=0, liquidation=0, cumQty=204420.0, avgPrice=1.338, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 19:27:51,415 - INFO - execDetails Execution(execId='000132b0.6806b4cd.01.01', time=datetime.datetime(2025, 4, 21, 22, 32, 35, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=313836.0, price=0.6001, permId=371613937, clientId=0, orderId=0, liquidation=0, cumQty=313836.0, avgPrice=0.6001, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 19:27:51,416 - INFO - execDetails Execution(execId='000132b0.6806b51d.01.01', time=datetime.datetime(2025, 4, 21, 23, 26, 31, tzinfo=datetime.timezone.utc), acctNumber='DUK650881', exchange='IDEALPRO', side='SLD', shares=313836.0, price=0.60012, permId=371614016, clientId=0, orderId=0, liquidation=0, cumQty=313836.0, avgPrice=0.60012, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=1)
+2025-04-21 19:27:51,416 - INFO - commissionReport: CommissionReport(execId='000132b0.68057028.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,416 - INFO - commissionReport: CommissionReport(execId='000132b0.68057029.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,417 - INFO - commissionReport: CommissionReport(execId='000132b0.6805702a.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,417 - INFO - commissionReport: CommissionReport(execId='000132b0.6805702c.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,417 - INFO - commissionReport: CommissionReport(execId='000132b0.6805702d.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,417 - INFO - commissionReport: CommissionReport(execId='000132b0.6805702e.01.01', commission=13.8079, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,418 - INFO - commissionReport: CommissionReport(execId='000132b0.6805702f.01.01', commission=5.52328, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,418 - INFO - commissionReport: CommissionReport(execId='000132b0.6805707c.01.01', commission=13.319345, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,418 - INFO - commissionReport: CommissionReport(execId='000132b0.6805719f.01.01', commission=4.642856, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,420 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a0.01.01', commission=7.573581, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,420 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a1.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,421 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a2.01.01', commission=5.445926, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,421 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a3.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,421 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a4.01.01', commission=4.855503, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,422 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a5.01.01', commission=5.217751, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,422 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a6.01.01', commission=9.758475, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,423 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a7.01.01', commission=4.643018, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,423 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a8.01.01', commission=7.573581, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,423 - INFO - commissionReport: CommissionReport(execId='000132b0.680571a9.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,423 - INFO - commissionReport: CommissionReport(execId='000132b0.680571aa.01.01', commission=5.446011, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,424 - INFO - commissionReport: CommissionReport(execId='000132b0.680571ab.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,424 - INFO - commissionReport: CommissionReport(execId='000132b0.680571ac.01.01', commission=4.855383, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,424 - INFO - commissionReport: CommissionReport(execId='000132b0.680571ad.01.01', commission=5.217751, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,425 - INFO - commissionReport: CommissionReport(execId='000132b0.680571cd.01.01', commission=2.7698, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,425 - INFO - commissionReport: CommissionReport(execId='000132b0.680571ce.01.01', commission=0.0, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,425 - INFO - commissionReport: CommissionReport(execId='000132b0.6806b4ae.01.01', commission=5.343337, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,425 - INFO - commissionReport: CommissionReport(execId='000132b0.6806b4b3.01.01', commission=1.445337, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,426 - INFO - commissionReport: CommissionReport(execId='000132b0.6806b4b4.01.01', commission=0.787116, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,426 - INFO - commissionReport: CommissionReport(execId='000132b0.6806b4cd.01.01', commission=5.213057, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,426 - INFO - commissionReport: CommissionReport(execId='000132b0.6806b51d.01.01', commission=5.213231, currency='CAD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0)
+2025-04-21 19:27:51,426 - INFO - Synchronization complete
+2025-04-21 19:27:51,427 - INFO - Successfully connected to IBKR
+2025-04-21 19:49:20,950 - INFO - position: Position(account='DUK650881', contract=Forex('USDCHF', conId=12087820, localSymbol='USD.CHF', tradingClass='USD.CHF'), position=176807.0, avgCost=0.8093061228375824)
+2025-04-21 19:49:20,972 - INFO - position: Position(account='DUK650881', contract=Forex('USDCHF', conId=12087820, localSymbol='USD.CHF', tradingClass='USD.CHF'), position=176807.0, avgCost=0.8093061228375824)
