@@ -1,0 +1,26 @@
+name: Deploy & Restart Bot
+
+on:
+  push:
+    branches: [ main ]    # or your working branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up SSH key
+      uses: webfactory/ssh-agent@v0.9.1
+      with:
+        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+    - name: Copy code & restart bot
+      run: |
+        ssh -o StrictHostKeyChecking=no ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} << 'EOF'
+          cd ~/path/to/your/bot/repo
+          git pull origin main
+          sudo systemctl restart atlas-alpha-bot
+        EOF
