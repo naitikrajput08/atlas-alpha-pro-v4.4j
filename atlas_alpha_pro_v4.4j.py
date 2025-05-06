@@ -38,16 +38,16 @@ HIGH_ADX_THRESH = {
     'NZDUSD': 30, 'USDCHF': 30, 'USDCAD': 30
 }
 
-BUFFER_FACTOR = 0.25   # keep 25% of equity in reserve
-RISK_HIGH    = 0.025   # 2.5% risk when ADX is very strong
-RISK_MED     = 0.01    # 1.0% risk when ADX is moderate
-SL_ATR_MULT  = 1.3     # stop set at entry - ATR * multiplier
-TP_ATR_MULT  = 2.2     # take-profit at entry + ATR * multiplier
-MIN_UNITS    = 1000    # IBKR micro-lot minimum
-RUN_INTERVAL = 400     # seconds (5 minutes)
-COOLDOWN_HOURS = 1      # per-symbol cooldown after fill
+BUFFER_FACTOR   = 0.25   # keep 25% of equity in reserve
+RISK_HIGH       = 0.025  # 2.5% risk when ADX is very strong
+RISK_MED        = 0.01   # 1.0% risk when ADX is moderate
+SL_ATR_MULT     = 1.3    # stop set at entry - ATR * multiplier
+TP_ATR_MULT     = 2.2    # take-profit at entry + ATR * multiplier
+MIN_UNITS       = 1000   # IBKR micro-lot minimum
+RUN_INTERVAL    = 300    # seconds (5 minutes)
+COOLDOWN_HOURS  = 1      # per-symbol cooldown after fill
 
-# ─── TIME-WINDOW FILTER ─────────────────────────────────────────────────
+# ─── TIME-WINDOW FILTER ────────────────────────────────────────────────────
 
 ALLOWED_HOURS = {
     # full active windows for these four pairs
@@ -63,18 +63,18 @@ ALLOWED_HOURS = {
     'USDCHF': [(8, 12)],
 }
 
-# ─── STATE ────────────────────────────────────────────────────────────────
+# ─── STATE ─────────────────────────────────────────────────────────────────
 
 last_entry_time = {sym: None for sym in SYMBOLS}
 
-# ─── SETUP ────────────────────────────────────────────────────────────────
+# ─── SETUP ─────────────────────────────────────────────────────────────────
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
 ib = IB()
 ib.connect('127.0.0.1', 7497, clientId=random.randint(1, 9999))
 logging.info(f"✅ Connected to IBKR — running every {RUN_INTERVAL}s")
 
-# ─── HELPERS ──────────────────────────────────────────────────────────────
+# ─── HELPERS ────────────────────────────────────────────────────────────────
 
 def fetch_df(symbol, duration='3 D', barSize='1 hour'):
     try:
@@ -95,7 +95,7 @@ def fetch_df(symbol, duration='3 D', barSize='1 hour'):
         )
     return util.df(bars)
 
-# ─── ADDED HELPERS START ───────────────────────────────────────────────────
+# ─── ADDED HELPERS START ────────────────────────────────────────────────────
 
 def compute_hourly_adx(symbol, lookback_days=7):
     df_h1 = fetch_df(symbol, duration=f'{lookback_days} D', barSize='1 hour')
@@ -112,16 +112,15 @@ def today_range(symbol):
     now_et = datetime.now(tz)
     since = now_et.replace(hour=0, minute=0, second=0, microsecond=0)
     hours = (now_et - since).seconds // 3600 + 1
-    # use seconds unit ('S') instead of invalid 'h'
     secs = hours * 3600
     df_5m = fetch_df(symbol, duration=f'{secs} S', barSize='5 mins')
     if df_5m is None or df_5m.empty:
         return 0
     return df_5m.high.max() - df_5m.low.min()
 
-# ─── ADDED HELPERS END ─────────────────────────────────────────────────────
+# ─── ADDED HELPERS END ──────────────────────────────────────────────────────
 
-# ─── ORDER ENTRY ───────────────────────────────────────────────────────────
+# ─── ORDER ENTRY ────────────────────────────────────────────────────────────
 
 def place_limit_bracket(symbol, entry, risk_pct):
     acct = {v.tag: float(v.value) for v in ib.accountSummary()}
@@ -161,7 +160,7 @@ def place_limit_bracket(symbol, entry, risk_pct):
             return False
     return True
 
-# ─── PER-SYMBOL PROCESSING ─────────────────────────────────────────────────
+# ─── PER-SYMBOL PROCESSING ──────────────────────────────────────────────────
 
 def process_symbol(symbol):
     now_et = datetime.now(pytz.timezone('America/New_York'))
