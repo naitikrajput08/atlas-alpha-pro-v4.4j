@@ -44,7 +44,7 @@ RISK_MED     = 0.01    # 1.0% risk when ADX is moderate
 SL_ATR_MULT  = 1.3     # stop set at entry - ATR * multiplier
 TP_ATR_MULT  = 2.2     # take-profit at entry + ATR * multiplier
 MIN_UNITS    = 1000    # IBKR micro-lot minimum
-RUN_INTERVAL = 300     # seconds (5 minutes)
+RUN_INTERVAL = 400     # seconds (5 minutes)
 COOLDOWN_HOURS = 1      # per-symbol cooldown after fill
 
 # ─── TIME-WINDOW FILTER ─────────────────────────────────────────────────
